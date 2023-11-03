@@ -10,7 +10,7 @@ Currently:
 - It is not pretty
 - Doesn't obey any stands
 - Uses deprecated code
-- This code doesnt implement any touch commands, anything at all
+- This project doesnt implement any touch commands or anything at all
 
 But:
 - Works

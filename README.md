@@ -23,9 +23,9 @@ How to use:
 
 
 More info:
-- -If you update your game your user is likely to lost their save. Not sure though
+- If you update your game your user is likely to lost their save. Not sure though
 - Change names and icons to fit your project
-- -Most builds worths with pixi.js library updated to v4.8.9 (from the default v4.5.4)
+- Most builds worths with pixi.js library updated to v4.8.9 (from the default v4.5.4)
 
 
 [If you use this project please credit me somewhere in your game.

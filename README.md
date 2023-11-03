@@ -21,8 +21,9 @@ How to use:
 - Build the APK on Android Studio
 - Profit
 
-Caution:
+More info:
 -If you update your game your user is likely to lost their save. Not sure though.
+-Most builds worths with pixi.js library updated to v4.8.9 (from the default v4.5.4)
 
 [If you use this project please credit me somewhere in your game.
 A message here to tell me you did it would be much appreciated]

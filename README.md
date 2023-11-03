@@ -1,11 +1,7 @@
 # RPG-Maker-Android-App
  This is just a quick and dirty way to enable you to convert your RPG Maker game to android.
 
-Made with Android studio using Kotlin. So keep it there.
-
-[If you use this project please credit me somewhere in your game.
-A message here to tell me you did it would be much appreciated]
-
+Made with Android studio using Kotlin. So keep it there. Tested With RPG Maker MV but it certainly works with MZ. Use it by your own I do not guarantee the end-user experience.
 
 Currently:
 - It is not pretty
@@ -25,4 +21,8 @@ How to use:
 - Build the APK on Android Studio
 - Profit
 
-If you update your game your user is likely to lost their save. Not sure though. Needs more testing
+Caution:
+-If you update your game your user is likely to lost their save. Not sure though.
+
+[If you use this project please credit me somewhere in your game.
+A message here to tell me you did it would be much appreciated]

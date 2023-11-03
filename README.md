@@ -24,3 +24,5 @@ How to use:
 - Copy the contents of www from your exported game to app/src/main/assets/www
 - Build the APK on Android Studio
 - Profit
+
+If you update your game your user is likely to lost their save. Not sure though. Needs more testing

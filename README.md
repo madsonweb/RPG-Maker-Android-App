@@ -8,6 +8,7 @@ Currently:
 - Doesn't obey any stands
 - Uses deprecated code
 - This project doesnt implement any touch commands or anything at all
+- Touch works if you use some **plugins** though.
 
 But:
 - Works
